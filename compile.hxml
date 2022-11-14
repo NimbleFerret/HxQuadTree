@@ -1,0 +1,6 @@
+-cp src
+-lib heaps
+-lib domkit
+-js hxquadtree.js
+-main Main
+-debug
